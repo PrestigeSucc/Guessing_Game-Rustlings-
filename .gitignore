@@ -1,1 +1,4 @@
 /guessing_game/target
+*~
+*.swo
+*.swp
